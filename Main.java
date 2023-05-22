@@ -56,7 +56,7 @@ public class Main {
                     System.exit(0);
                     break;
                 default:
-                    System.out.println("SO ban nhap khong co chuc nang. Hay chon lai.");
+                    System.out.println("So ban nhap khong co chuc nang. Hay chon lai so khac.");
             }
         }
     }
